@@ -1,8 +1,9 @@
 #include <boost/any.hpp>
+#include <iostream>
 
 int main()
 {
-	boost::any a = 1;
+	std::cout << "hello world " << std::endl;
 
 	return 0;
 
